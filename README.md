@@ -77,7 +77,7 @@ int main() {
 }
 ```
 # OUTPUT
-![2](https://github.com/user-attachments/assets/670608f2-7c79-4b37-b6ab-52fa7b44aa89)
+![2](https://github.com/user-attachments/assets/23fa8400-8830-4f73-9e2f-31707f276ff0)
 
 # RESULT
 ## The lexical analyzer is implemented using lex and the output is verified.
